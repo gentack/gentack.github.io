@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gentack.github.io/sitemap.html.gz
+Sitemap: https://gentack.github.io/app/sitemap.html.gz
+Sitemap: https://gentack.github.io/assets/sitemap.html.gz
+Sitemap: https://gentack.github.io/css/sitemap.html.gz
+Sitemap: https://gentack.github.io/data/sitemap.html.gz
+Sitemap: https://gentack.github.io/includes/sitemap.html.gz
+Sitemap: https://gentack.github.io/item/sitemap.html.gz
+Sitemap: https://gentack.github.io/src/sitemap.html.gz
